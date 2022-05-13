@@ -1,5 +1,6 @@
 body {
-background-color: #ec8867;
+
+    background-color: #ec8867;
 opacity: 0.9;
 background-image:  linear-gradient(135deg, #ffab00 25%, transparent 25%), linear-gradient(225deg, #ffab00 25%, transparent 25%), linear-gradient(45deg, #ffab00 25%, transparent 25%), linear-gradient(315deg, #ffab00 25%, #ec8867 25%);
 background-position:  9px 0, 9px 0, 0 0, 0 0;
