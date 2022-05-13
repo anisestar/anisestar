@@ -9,59 +9,5 @@ p {
     color: blue;
 }
 
-<html>
-<html>
-<head>
-<style>
-img {
-  border-radius: 50%;
-}
-</style>
-</head>
-<body>
 
-<h2>Circled Image</h2>
-
-<p>Use the border-radius property to create circled images:</p>
-
-<img src="sexycapybara.jpg" alt="sexy" width="300" height="300">
-
-</body>
-</html>
-
-<html>
-<head>
-<style>
-.container {
-  position: relative;
-}
-
-.center {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-size: 18px;
-}
-
-img { 
-  width: 100%;
-  height: auto;
-  opacity: 0.3;
-}
-</style>
-</head>
-<body>
-
-<h2>Image Text</h2>
-
-<p>Center text in image:</p>
-
-<div class="container">
-  <img src="capybara.jpg" alt="two baras" width="1000" height="300">
-  <div class="center">sibling love</div>
-</div>
-
-</body>
-</html>
 
